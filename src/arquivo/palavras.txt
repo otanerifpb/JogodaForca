@@ -1,0 +1,11 @@
+10
+REMOTO;nova modalidade de trabalho
+OBJETO;é uma instância da classe
+bolsa;guarda objetos pessoais
+cola;gruda as coisas
+sala;local para ver TV
+DRIVE;armazenamento em nuvem
+MISTER;2019 ganhou tudo
+BOLT;o homem flecha
+COMICO;engraçado
+OTARIO;trouxa
